@@ -33,11 +33,6 @@
 	 php artisan key:generate
 	```	
 
-
-- Now for server run...
-	```
-	php artisan serve
-	```
 - Than you should clear the cache...
 
        
@@ -47,6 +42,12 @@
 	php artisan config:clear
 	php artisan view:clear
     ```
+	
+
+- Now for server run...
+	```
+	php artisan serve
+	```
 
 - Please run your terminal with cron-job command...
 	```
